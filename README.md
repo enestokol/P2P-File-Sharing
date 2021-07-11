@@ -6,8 +6,7 @@
 Python 3.7 or higher version
 
 # Usage
-Create a Pycharm project (Pure Python)
-Copy all files and folders to Pycharm project folder and then configure python interpreter
+You can run sequentially defined in below.
 
 >> python P2P_Server.py
 ## The program asks whether you will host any file or not
