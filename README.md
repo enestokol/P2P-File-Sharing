@@ -18,7 +18,7 @@ Copy all files and folders to Pycharm project folder and then configure python i
 >>python P2P_Downloader.py
 ## The program asks which file do you want to download?
 Contributors
-- ENES TOKOL 1504025
-- ONUR AĞAÇ 1503467
-- SEFA TAŞYARAN 1503283
-- BERAT KÜÇÜK 1504595
+- ENES TOKOL
+- ONUR AĞAÇ
+- SEFA TAŞYARAN
+- BERAT KÜÇÜK
